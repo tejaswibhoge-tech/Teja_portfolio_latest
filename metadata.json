@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Python Linguist Studio",
+  "description": "Analyze GitHub repository language percentages and generate real Python portfolio modules to balance HTML-heavy repositories to 40-50%+ Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
